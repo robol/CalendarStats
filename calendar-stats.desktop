@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CalendarStats
+GenericName=Calendars statistics
+Comment=Get information about calendar files
+Exec=CalendarStats
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=office-calendar-symbolic
+Categories=Utility;

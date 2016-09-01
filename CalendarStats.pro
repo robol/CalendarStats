@@ -22,3 +22,6 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui
 
 LIBS += -lical
+
+DISTFILES += \
+    CmakeLists.txt
