@@ -18,7 +18,7 @@ public:
 private:
     QString mPath;
     QList<QDateTime> mEventDates;
-    bool mValid = false;
+    bool mValid;
 
     // Parse the content of the file specified by the user
     bool parseContent();
